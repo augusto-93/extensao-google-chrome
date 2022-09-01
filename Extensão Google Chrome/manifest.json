@@ -1,0 +1,10 @@
+{
+    "name": "Color Search",
+    "description": "Extensão criada para captura de código de cores e conta gotas.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
